@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Excel Revolutionized: Python Integration Unveiled for Data Analysts🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Microsoft has just unveiled a groundbreaking development for Excel users– the integration of Python directly into Excel.",
+    url: "https://blog.octachart.com/excel-revolutionized-python-integration-unveiled-for-data-analysts",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Top 50 Important Python Libraries!",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Have you tried or used the libraries I am going to mention in this blog yet? .",
+    url: "https://blog.octachart.com/top-50-important-python-libraries",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Top 30 CMD Commands For Windows",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "There are a million reasons why everyone not only developers should learn to use the terminal to execute stuff..",
+    url: "https://blog.octachart.com/top-30-cmd-commands-for-windows",
   },
 ];
 
