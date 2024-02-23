@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://{ronlin1}.github.io/{mlsaone}",
+  "homepage": "http://ronlin1.github.io/mlsaone",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{ronlin1}.github.io/{mlsaone}'",
+    "build-gh": "parcel build --public-url 'https://ronlin1.github.io/mlsaone'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
