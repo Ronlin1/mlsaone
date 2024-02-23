@@ -37,7 +37,7 @@ const projectList = [
     url: "https://blog.octachart.com/excel-revolutionized-python-integration-unveiled-for-data-analysts",
   },
   {
-    title: "Top 50 Important Python Libraries!",
+    title: "Top 50 Important Python Libraries! ",
     description:
       "Have you tried or used the libraries I am going to mention in this blog yet? .",
     url: "https://blog.octachart.com/top-50-important-python-libraries",
